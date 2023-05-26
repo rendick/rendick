@@ -16,7 +16,7 @@ fn main() {
         ide: String::from("VSCodium or Vim"),
         country: String::from("Ukraine"),
         languages: String::from("Rust, Bash Shell, JavaScript"),
-        technology:  String::from("React, React Redux, SCSS, Vercel, "),
+        technology:  String::from("React + React Redux, SCSS, web3, TronWeb"),
     };
 
     println!("{:?}", about_me);
