@@ -1,7 +1,7 @@
 ```rust
 #[derive(Debug)]
 struct About{
-    nickname: String,
+    name: String,
     os: String,
     ide: String,
     country: String,
